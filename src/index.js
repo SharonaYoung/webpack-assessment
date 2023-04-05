@@ -1,3 +1,3 @@
+import 'bootstrap/dist/css/bootstrap.min.css'
+import './style.css';
 console.log("Hey!!");
-// import bootstrap
-// CSS loader
