@@ -1,0 +1,13 @@
+body{
+  background-color: #a9a9a9;
+}
+main {
+  background-color: #e4e4e4;
+  max-width: 60vw; 
+  height: 100vh; 
+  text-align: center;
+  margin: 0 auto;
+}
+#display{
+  font-size: 1.5rem;
+}
